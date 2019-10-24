@@ -1,2 +1,2 @@
 # seven-ss
-for python/sql/hadoop/hive/sqoop learn
+for python/sql/hadoop/hive/sqoop learning
